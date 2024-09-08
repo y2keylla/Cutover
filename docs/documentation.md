@@ -2,6 +2,10 @@
 
 &emsp;&emsp;Um plano de cutover é um documento detalhado que descreve como uma organização irá migrar de seu estado operacional atual para um novo estado, geralmente após a conclusão de um projeto. Inclui um conjunto de tarefas, cronogramas, recursos e procedimentos a serem seguidos durante essa transição. Em outras palavras, é o roteiro que garante que a mudança seja feita de forma natural e eficiente, minimizando riscos e problemas. [(Sabino, 2024)](https://radardeprojetos.com.br/plano-de-cutover-o-segredo-para-uma-transicao-de-projetos-bem-sucedida/#:~:text=Um%20Plano%20de%20Cutover%20%C3%A9,seguidos%20durante%20essa%20transi%C3%A7%C3%A3o%20cr%C3%ADtica.)
 
+<p align="center">    
+  <img src="./image.png" alt="Passos para um Plano de Cutover" height="330">
+</p>
+
 ### Por que um Plano de Cutover é importante?
 
 &emsp;&emsp;A fase de cutover é um momento crucial em qualquer projeto, pois marca a transição do ambiente de testes para o ambiente de produção. Um plano bem elaborado garante que:
